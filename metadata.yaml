@@ -1,4 +1,5 @@
 _repo: The-Fourteenth-of-July-and-Danton-Two-Plays-of-the-French-Revolution_49438
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Clark, Barrett H. (Barrett Harper)
@@ -7,6 +8,9 @@ contributor:
     deathdate: 1953
     gutenberg_agent_id: '7471'
     url: http://www.gutenberg.org/2009/agents/7471
+covers:
+- cover_type: archival
+  image_path: 49438-h/images/cover.jpg
 creator:
   author:
     agent_name: Rolland, Romain
@@ -17,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2602
     wikipedia: http://en.wikipedia.org/wiki/Romain_Rolland
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49438#The-Fourteenth-of-July-and-Danton-Two-Plays-of-the-French-Revolution
 gutenberg_issued: '2015-07-14'
 gutenberg_type: Text
 identifiers:
